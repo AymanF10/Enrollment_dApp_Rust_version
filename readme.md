@@ -73,7 +73,6 @@ To transfer SOL tokens from one wallet to another, ensure you have your wallet's
 ```
 cargo test transfer_sol
 ```
-
 #### Enrolling Users
 
 To enroll a user by associating their GitHub account, ensure you have your wallet's keypair saved as `Turbin3-wallet.json`, then run:
