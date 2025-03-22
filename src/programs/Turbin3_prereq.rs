@@ -112,6 +112,7 @@ idlgen!(
             "msg": "Invalid Github account"
         }
     ],
+    
     "types": [
         {
             "name": "SolanaCohort5Account",
